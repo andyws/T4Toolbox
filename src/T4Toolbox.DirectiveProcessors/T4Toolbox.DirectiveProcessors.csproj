@@ -4,6 +4,8 @@
     <ProjectGuid>{E0282961-2D83-48CC-B4D4-8257449CF8F7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NuGetPackageImportStamp>3fedb98d</NuGetPackageImportStamp>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <Import Project="$(SolutionDir)\T4Toolbox.Common.props" />
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " />
